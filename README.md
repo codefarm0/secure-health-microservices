@@ -9,6 +9,12 @@ We are building a multi-tenant digital healthcare platform for hospitals and dia
 - Allow secure third-party access (insurance companies)
 - Ensure scalability, auditability, and prevent data leakage
 
+## Conceptual Understanding 
+Refer to the below stories published on medium.com
+- [Advanced JWT: Signing, Encryption, and Key Strategies](https://codefarm0.medium.com/advanced-jwt-signing-encryption-and-key-strategies-e65acbf8ef47)
+- [JSON Web Token (JWT): A Complete Guide with Spring Boot Integration](https://codefarm0.medium.com/json-web-token-jwt-a-complete-guide-with-spring-boot-integration-6f396831083a)
+- [Real-World Secure Healthcare Data Access System (JWT + JWS + JWE)](https://medium.com/p/6cd391915a1f/edit)
+
 ## 🚧 Challenges We Must Solve
 - **Sensitive Payload Protection:**
   - Medical history, lab results, and diagnosis reports must be encrypted end-to-end, even from the client app's storage or logs.
